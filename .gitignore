@@ -1,2 +1,7 @@
+# Clojure
+clojure/target/*
+clojure/.nrepl-port
+*.lein-env
+
 # emacs
 *~
